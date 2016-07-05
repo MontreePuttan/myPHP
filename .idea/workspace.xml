@@ -1,7 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e47432a-7d20-4dde-9dea-2f78f66f7a6f" name="Default" comment="" />
+    <list default="true" id="4e47432a-7d20-4dde-9dea-2f78f66f7a6f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/froala_editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/froala_editor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/froala_editor.pkgd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/froala_editor.pkgd.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/froala_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/froala_style.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/char_counter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/char_counter.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/code_view.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/code_view.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/draggable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/draggable.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/emoticons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/emoticons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/file.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/file.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/fullscreen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/fullscreen.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/image.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/image_manager.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/image_manager.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/line_breaker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/line_breaker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/quick_insert.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/quick_insert.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/table.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/video.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/plugins/video.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/dark.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/gray.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/gray.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/red.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/red.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/royal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/css/themes/royal.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/at.js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/boostrap/content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/boostrap/lists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/boostrap/modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/core.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/direction_rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/disable_edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/emoticons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/enter_br.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/enter_div.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/enter_p.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/events/blur_focus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/events/content_changed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/events/drop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/events/image_removed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/file_s3_upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/font_family.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/full.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/full_br.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/full_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/full_page_bottom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/image_manager.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/image_s3_upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_destroy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_inside_iframe/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_inside_iframe/content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_inside_iframe/inline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_click/full.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_click/full_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_click/toolbar_inline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_click/two_editors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_h1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/init_on_link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/jquery_mobile/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/jquery_ui/modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/language.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/line_breaker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/live_preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/require_js/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/require_js/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/require_js/js/lib/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/scrollable_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/show_selection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/size/height.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/size/max_height.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/size/min_height.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/size/width.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/bottom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/bottom_offset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/bottom_offset_scrollable_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/bottom_scrollable_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/top_offset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/top_offset_scrollable_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/sticky_toolbar/top_scrollable_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/textarea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/themes/dark_theme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/themes/gray_theme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/themes/red_theme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/themes/royal_theme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/toolbar_container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/toolbar_container_inline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/toolbar_inline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/toolbar_inline_two.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/two_instances.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/html/z_index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/img/photo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/froala_editor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/froala_editor.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/bs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/en_ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/en_gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/pt_br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/pt_pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/zh_cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/languages/zh_tw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/align.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/char_counter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/code_beautifier.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/code_view.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/colors.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/draggable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/emoticons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/entities.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/file.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/font_family.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/font_size.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/forms.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/fullscreen.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/image.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/image_manager.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/inline_style.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/line_breaker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/link.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/lists.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/paragraph_format.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/paragraph_style.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/quick_insert.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/quote.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/save.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/table.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/url.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/js/plugins/video.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/testEdit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/testdelete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/testinsert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/testshowAll.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/testshowCondition.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/testupdate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/editor/upload_file.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/editor/.idea/workspace.xml" afterPath="$PROJECT_DIR$/editor/.idea/workspace.xml" />
+    </list>
     <ignored path="myPHP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,11 +210,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="228">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.20765027" vertical-offset="0" max-vertical-offset="183">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -57,14 +252,15 @@
         <option value="$PROJECT_DIR$/../admin1/login.php" />
         <option value="$PROJECT_DIR$/multiselect/index.php" />
         <option value="$PROJECT_DIR$/multiselect/jsoncontrol.js" />
+        <option value="$PROJECT_DIR$/test.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="344" />
-    <option name="width" value="1614" />
+    <option name="x" value="2" />
+    <option name="y" value="425" />
+    <option name="width" value="1280" />
     <option name="height" value="308" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -122,7 +318,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="body" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -142,6 +338,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/multiselect" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -158,15 +357,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -186,8 +385,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="344" width="1614" height="308" extended-state="0" />
-    <editor active="true" />
+    <frame x="2" y="425" width="1280" height="308" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -195,7 +394,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12887236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.128125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -234,18 +433,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pagination/index.php">
+    <entry file="file://$PROJECT_DIR$/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_name..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -253,14 +445,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_name..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagination/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -268,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.19" vertical-offset="57" max-vertical-offset="1995">
           <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -276,14 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.4550562" vertical-offset="437" max-vertical-offset="1178">
           <caret line="46" column="24" selection-start-line="44" selection-start-column="4" selection-end-line="46" selection-end-column="24" />
-          <folding>
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_name..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-            <marker date="1467110358000" expanded="true" signature="-1:-1" placeholder="SELECT SQL_C..tb_nameLIMIT..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -291,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -299,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40314135" vertical-offset="94" max-vertical-offset="285">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -307,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0357144" vertical-offset="0" max-vertical-offset="209">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -335,9 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.0" vertical-offset="97" max-vertical-offset="912">
           <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding>
-            <marker date="1467126242000" expanded="true" signature="-1:-1" placeholder="SELECT tb_na..tb_name..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -345,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17901234" vertical-offset="161" max-vertical-offset="570">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -353,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5308642" vertical-offset="142" max-vertical-offset="380">
           <caret line="12" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.3571428" vertical-offset="152" max-vertical-offset="380">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -369,9 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.1071428" vertical-offset="330" max-vertical-offset="570">
           <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <marker date="1467178100000" expanded="true" signature="-1:-1" placeholder="select tb_mo..tb_brand..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -387,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.785714" vertical-offset="171" max-vertical-offset="475">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <marker date="1467177360000" expanded="true" signature="-1:-1" placeholder="select name ..tb_brand..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,14 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28787878" vertical-offset="399" max-vertical-offset="874">
           <caret line="33" column="61" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="61" />
-          <folding>
-            <marker date="1416997156000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1416997156000" expanded="true" signature="-1:-1" placeholder="select * fro..province..." />
-            <marker date="1416997156000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1416997156000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..amphur..." />
-            <marker date="1416997156000" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1416997156000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..district..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6589595" vertical-offset="95" max-vertical-offset="551">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -420,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3448276" vertical-offset="254" max-vertical-offset="532">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -428,6 +585,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20765027" vertical-offset="0" max-vertical-offset="183">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>

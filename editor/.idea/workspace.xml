@@ -25,101 +25,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="testEdit.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testEdit.php">
+      <file leaf-file-name="entry.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/entry.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.486647" vertical-offset="891" max-vertical-offset="2033">
-              <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+            <state vertical-scroll-proportion="1.8512397" vertical-offset="2003" max-vertical-offset="2565">
+              <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/plugins/file.min.js">
+      <file leaf-file-name="AuthManager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/moxiemanager/classes/Auth/AuthManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
-              <caret line="6" column="432" selection-start-line="6" selection-start-column="406" selection-end-line="6" selection-end-column="432" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db_connect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/db_connect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="2147">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="87" selection-end-column="45" />
-              <folding>
-                <marker date="1467279269000" expanded="true" signature="1811:1856" placeholder="INSERT INTO ..." />
-                <marker date="1467279269000" expanded="true" signature="2289:2321" placeholder="UPDATE :_tab..." />
-                <marker date="1467279269000" expanded="true" signature="2553:2578" placeholder="DELETE FROM ..." />
-                <marker date="1467279269000" expanded="true" signature="2807:2835" placeholder="SELECT * FRO.._table LIMIT..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testinsert.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testinsert.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1045">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="22" />
-              <folding>
-                <marker date="1467283299000" expanded="true" signature="820:865" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testupdate.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testupdate.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1064">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="35" />
-              <folding>
-                <marker date="1467284102000" expanded="true" signature="880:912" placeholder="UPDATE :_tab..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testdelete.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testdelete.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="513">
-              <caret line="6" column="57" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="57" />
-              <folding>
-                <marker date="1467286621000" expanded="true" signature="388:413" placeholder="DELETE FROM ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testshowAll.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testshowAll.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="741">
-              <caret line="10" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="2" />
-              <folding>
-                <marker date="1467294882000" expanded="true" signature="585:597" placeholder="DELETE FROM ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testshowCondition.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testshowCondition.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="760">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-              <folding>
-                <marker date="1467295064000" expanded="true" signature="613:627" placeholder="SELECT * FRO..table..." />
-                <marker date="1467295064000" expanded="true" signature="613:639" placeholder="SELECT * FRO.._table WHERE..." />
-                <marker date="1467295064000" expanded="true" signature="613:640" placeholder="SELECT * FRO.._table WHERE..." />
-              </folding>
+            <state vertical-scroll-proportion="13.296296" vertical-offset="1402" max-vertical-offset="4332">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,6 +68,7 @@
         <option value="$PROJECT_DIR$/testshow.php" />
         <option value="$PROJECT_DIR$/testshowAll.php" />
         <option value="$PROJECT_DIR$/testshowCondition.php" />
+        <option value="$PROJECT_DIR$/entry.php" />
       </list>
     </option>
   </component>
@@ -183,6 +105,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,9 +124,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editotr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,15 +160,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -257,17 +193,17 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2144522" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3563492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23968254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2144522" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -298,20 +234,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testEdit.php">
+    <entry file="file://$USER_HOME$/Downloads/db_connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1670" max-vertical-offset="2033">
-          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/plugins/file.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
-          <caret line="6" column="432" selection-start-line="6" selection-start-column="406" selection-end-line="6" selection-end-column="432" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2147">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="UPDATE :_tab..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table LIMIT..." />
           </folding>
         </state>
       </provider>
@@ -321,78 +252,11 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="2147">
           <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="87" selection-end-column="45" />
           <folding>
-            <marker date="1467279269000" expanded="true" signature="1811:1856" placeholder="INSERT INTO ..." />
-            <marker date="1467279269000" expanded="true" signature="2289:2321" placeholder="UPDATE :_tab..." />
-            <marker date="1467279269000" expanded="true" signature="2553:2578" placeholder="DELETE FROM ..." />
-            <marker date="1467279269000" expanded="true" signature="2807:2835" placeholder="SELECT * FRO.._table LIMIT..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="UPDATE :_tab..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table LIMIT..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testinsert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1045">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <marker date="1467283299000" expanded="true" signature="820:865" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testupdate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1064">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <marker date="1467284102000" expanded="true" signature="880:912" placeholder="UPDATE :_tab..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testdelete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="513">
-          <caret line="6" column="57" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="57" />
-          <folding>
-            <marker date="1467286621000" expanded="true" signature="388:413" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testshowAll.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="741">
-          <caret line="10" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="2" />
-          <folding>
-            <marker date="1467294882000" expanded="true" signature="585:597" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testshowCondition.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1467295064000" expanded="true" signature="613:627" placeholder="SELECT * FRO..table..." />
-            <marker date="1467295064000" expanded="true" signature="613:639" placeholder="SELECT * FRO.._table WHERE..." />
-            <marker date="1467295064000" expanded="true" signature="613:640" placeholder="SELECT * FRO.._table WHERE..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testEdit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="531" max-vertical-offset="1805">
-          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/froala_editor.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -400,37 +264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24595469" vertical-offset="0" max-vertical-offset="309">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/froala_editor.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07037037" vertical-offset="0" max-vertical-offset="270">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/froala_editor.pkgd.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4615386" vertical-offset="81" max-vertical-offset="361">
-          <caret line="13" column="20701" selection-start-line="13" selection-start-column="20674" selection-end-line="13" selection-end-column="20701" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/plugins/file.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
-          <caret line="6" column="432" selection-start-line="6" selection-start-column="406" selection-end-line="6" selection-end-column="432" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload_file.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8647687" vertical-offset="346" max-vertical-offset="703">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -457,73 +290,40 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/db_connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="2147">
+        <state vertical-scroll-proportion="-57.0" vertical-offset="0" max-vertical-offset="2147">
           <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="87" selection-end-column="45" />
           <folding>
-            <marker date="1467279269000" expanded="true" signature="1811:1856" placeholder="INSERT INTO ..." />
-            <marker date="1467279269000" expanded="true" signature="2289:2321" placeholder="UPDATE :_tab..." />
-            <marker date="1467279269000" expanded="true" signature="2553:2578" placeholder="DELETE FROM ..." />
-            <marker date="1467279269000" expanded="true" signature="2807:2835" placeholder="SELECT * FRO.._table LIMIT..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="UPDATE :_tab..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1467279269000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO.._table LIMIT..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testinsert.php">
+    <entry file="file://$PROJECT_DIR$/plugins/moxiemanager/changelog.txt">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1045">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <marker date="1467283299000" expanded="true" signature="820:865" placeholder="INSERT INTO ..." />
-          </folding>
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="148" max-vertical-offset="2888">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testdelete.php">
+    <entry file="file://$PROJECT_DIR$/plugins/moxiemanager/classes/Auth/AuthManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="513">
-          <caret line="6" column="57" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="57" />
-          <folding>
-            <marker date="1467286621000" expanded="true" signature="388:413" placeholder="DELETE FROM ..." />
-          </folding>
+        <state vertical-scroll-proportion="13.296296" vertical-offset="1402" max-vertical-offset="4332">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testupdate.php">
+    <entry file="file://$PROJECT_DIR$/entry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1064">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="35" />
-          <folding>
-            <marker date="1467284102000" expanded="true" signature="880:912" placeholder="UPDATE :_tab..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testshowAll.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="741">
-          <caret line="10" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="2" />
-          <folding>
-            <marker date="1467294882000" expanded="true" signature="585:597" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testshowCondition.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.071429" vertical-offset="0" max-vertical-offset="760">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-          <folding>
-            <marker date="1467295064000" expanded="true" signature="613:627" placeholder="SELECT * FRO..table..." />
-            <marker date="1467295064000" expanded="true" signature="613:639" placeholder="SELECT * FRO.._table WHERE..." />
-            <marker date="1467295064000" expanded="true" signature="613:640" placeholder="SELECT * FRO.._table WHERE..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testEdit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.486647" vertical-offset="891" max-vertical-offset="2033">
-          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+        <state vertical-scroll-proportion="1.8512397" vertical-offset="2003" max-vertical-offset="2565">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding />
         </state>
       </provider>
