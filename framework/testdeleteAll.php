@@ -7,7 +7,7 @@ mysql_select_db("myPHP",$link);
 //http://localhost:8888/myPHP/editor/testshowAll.php
 
 
-echo $SQL = selectAll("test");
+echo $SQL = deleteAll("test");
 
 $objQuery = mysql_query($SQL) or die (mysql_error());
 
@@ -23,10 +23,10 @@ while ($result = mysql_fetch_array($objQuery)){
 <?php } ?>
 
 <?php
-    function selectAll($table)
+    function deleteAll($table)
     {
 
-        $sql = "SELECT * FROM $table";
+        $sql = "DELETE FROM $table";
         return $sql;
 
 
