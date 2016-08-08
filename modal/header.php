@@ -31,7 +31,10 @@
     <![endif]-->
 
     <!-- jQuery -->
-    <script src="../js/jquery.js"></script>
+    <script src="jquery.min.js"></script>
+
+    <!-- app js -->
+    <script src="app.js"></script>
 
 
 
